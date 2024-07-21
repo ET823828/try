@@ -1,0 +1,14 @@
+h1 {
+    margin: 0;
+    padding: 20px 500px;
+    color: red;
+  }
+h2 {
+    padding: 0 50px;
+}
+#intro{
+    padding: 0 25px;
+}
+#update{
+    padding: 0 25px;
+}
